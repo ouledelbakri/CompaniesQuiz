@@ -177,6 +177,28 @@ class FirebaseService {
   - Contient des fonctions d'aide (validation des emails, gestion des erreurs).
 
 ---
+### Images des Écrans
+
+#### Écran de Connexion
+![Écran de Connexion](assets/screenshots/login_screen.png)
+
+#### Écran d'Inscription
+![Écran d'Inscription](assets/screenshots/register_screen.png)
+
+#### Écran des Questions
+![Écran des Questions](assets/screenshots/question_screen.png)
+
+#### Écran des Entreprises
+![Écran des Entreprises](assets/screenshots/company_list_screen.png)
+
+
+#### Écran des Utilisateurs
+![Écran des Entreprises](assets/screenshots/UsersListpng)
+
+
+#### Écran des Entreprises
+![Écran des Entreprises](assets/screenshots/UsersAnswers.png)
+---
 
 ### **Étapes pour Intégrer le Travail de l'Équipe**
 
