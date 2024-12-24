@@ -177,27 +177,18 @@ class FirebaseService {
   - Contient des fonctions d'aide (validation des emails, gestion des erreurs).
 
 ---
+
 ### Images des Écrans
 
-#### Écran de Connexion
-![Écran de Connexion](assets/screenshots/login_screen.png)
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="assets/screenshots/login_screen.png" alt="Écran de Connexion" style="width: 30%; margin: 1%;">
+  <img src="assets/screenshots/register_screen.png" alt="Écran d'Inscription" style="width: 30%; margin: 1%;">
+  <img src="assets/screenshots/question_screen.png" alt="Écran des Questions" style="width: 30%; margin: 1%;">
+  <img src="assets/screenshots/company_list_screen.png" alt="Écran des Entreprises" style="width: 30%; margin: 1%;">
+  <img src="assets/screenshots/UsersList.png" alt="Écran des Utilisateurs" style="width: 30%; margin: 1%;">
+  <img src="assets/screenshots/UsersAnswers.png" alt="Écran des Entreprises" style="width: 30%; margin: 1%;">
+</div>
 
-#### Écran d'Inscription
-![Écran d'Inscription](assets/screenshots/register_screen.png)
-
-#### Écran des Questions
-![Écran des Questions](assets/screenshots/question_screen.png)
-
-#### Écran des Entreprises
-![Écran des Entreprises](assets/screenshots/company_list_screen.png)
-
-
-#### Écran des Utilisateurs
-![Écran des Entreprises](assets/screenshots/UsersListpng)
-
-
-#### Écran des Entreprises
-![Écran des Entreprises](assets/screenshots/UsersAnswers.png)
 ---
 
 ### **Étapes pour Intégrer le Travail de l'Équipe**
